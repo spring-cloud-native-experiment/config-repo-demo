@@ -4,3 +4,5 @@ logging:
   level:
     org:
       springframework: info
+      
+my-custom-value: Hello from remote configs
